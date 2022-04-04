@@ -3,10 +3,6 @@
 My name is Ian Rosen and I'm a student at Lehigh University.
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="images/profile_pic.png" width="50%">
-</p>
-
 ---
 
 ## Portfolio
