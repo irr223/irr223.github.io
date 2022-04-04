@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 # Risk Factors Associated with Better/Worse Stock Returns
 #### Ian Rosen
 
