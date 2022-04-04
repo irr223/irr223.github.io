@@ -33,7 +33,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![png](images/output_6_0.png)
     
 
 
@@ -1080,7 +1080,7 @@ sns.heatmap(return_data_corr, cmap="Greens",annot=True)
 
 
     
-![png](output_32_1.png)
+![png](images/output_32_1.png)
     
 
 
@@ -2867,7 +2867,7 @@ method_one_scm(merged_df)
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
@@ -2879,7 +2879,7 @@ method_two_scm(merged_df)
 
 
     
-![png](output_53_0.png)
+![png](images/output_53_0.png)
     
 
 
@@ -2891,7 +2891,7 @@ method_three_scm(merged_df)
 
 
     
-![png](output_54_0.png)
+![png](images/output_54_0.png)
     
 
 
@@ -2905,7 +2905,7 @@ method_one_env(merged_df)
 
 
     
-![png](output_56_0.png)
+![png](images/output_56_0.png)
     
 
 
@@ -2919,7 +2919,7 @@ method_one_cmp(merged_df)
 
 
     
-![png](output_58_0.png)
+![png](images/output_58_0.png)
     
 
 
@@ -2957,7 +2957,7 @@ method_one_scm(merged_df)
 
 
     
-![png](output_63_0.png)
+![png](images/output_63_0.png)
     
 
 
@@ -2968,7 +2968,7 @@ method_two_scm(merged_df)
 
 
     
-![png](output_64_0.png)
+![png](images/output_64_0.png)
     
 
 
@@ -2979,7 +2979,7 @@ method_three_scm(merged_df)
 
 
     
-![png](output_65_0.png)
+![png](images/output_65_0.png)
     
 
 
@@ -2992,7 +2992,7 @@ method_one_env(merged_df)
 
 
     
-![png](output_67_0.png)
+![png](images/output_67_0.png)
     
 
 
@@ -3005,6 +3005,6 @@ method_one_cmp(merged_df)
 
 
     
-![png](output_69_0.png)
+![png](images/output_69_0.png)
     
 
