@@ -1,11 +1,10 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
-
+My name is Ian Rosen and I'm a student at Lehigh University.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/profile_pic.png" width="50%">
 </p>
 
 ---
