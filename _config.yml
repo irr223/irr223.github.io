@@ -1,11 +1,11 @@
 title: Ian Rosen # your name (or website title) here
 logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/ianrosenr/">LinkedIn</a> 
   <br>
   <a href="Ian_Rosen_Resume.pdf" class="btn btn--info">Resume</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
+  <a href="https://www.GitHub.com/irr223/">GitHub</a>  
   <br>
   
 theme: jekyll-theme-minimal
