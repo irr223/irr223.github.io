@@ -35,7 +35,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-1. Become an expert in my field, whatever that may be.
+1. Become an expert in my field, whatever that may be
 2. Pursue happiness, not money
 3. Start my own million dollar company by 30
 4. Reform the education system later in life
