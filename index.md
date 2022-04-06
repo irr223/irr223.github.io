@@ -11,15 +11,11 @@ My name is Ian Rosen and I'm a Junior at Lehigh University. I am majoring in Fin
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
 <img src="images/output_32_1.png?raw=true"/>
 
 ---
 
 _**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -39,16 +35,18 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+1. Become an expert in my field, whatever that may be.
+2. Pursue happiness, not money
+3. Start my own million dollar company by 30
+4. Reform the education system later in life
+5. Be known by my peers as an innovator in my field
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
-
+1. I love playing spikeball, basketball
+2. I've been going to the gym consistantly for over a year now and love it!
+3. Big Breaking Bad fan
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
