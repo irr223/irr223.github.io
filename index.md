@@ -46,7 +46,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 ## Hobbies
 
 1. I love playing spikeball, basketball
-2. I've been going to the gym consistantly for over a year now and love it!
+2. I've been going to the gym consistantly for over a year now and love it
 3. Big Breaking Bad fan
 ---
 <!-- Remove above link if you don't want to attibute -->
