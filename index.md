@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Ian Rosen and I'm a student at Lehigh University.
+My name is Ian Rosen and I'm a Junior at Lehigh University. I am majoring in Finance and minoring in Computer Science. Hire me... or else 
 <!-- Upload your own photo and change the path -->
 
 ---
