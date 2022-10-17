@@ -7158,7 +7158,7 @@ plot_daily.savefig('../Graphs/plot_daily.png')
 
 
     
-![png](output_70_0.png)
+![png](images/output_70_0.png)
     
 
 
@@ -7178,7 +7178,7 @@ plot_weekly.savefig('../Graphs/plot_weekly.png')
 
 
     
-![png](output_73_0.png)
+![png](images/output_73_0.png)
     
 
 
@@ -7198,7 +7198,7 @@ plot_biweekly.savefig('../Graphs/plot_biweekly.png')
 
 
     
-![png](output_76_0.png)
+![png](images/output_76_0.png)
     
 
 
@@ -7218,7 +7218,7 @@ plot_monthly.savefig('../Graphs/plot_monthly.png')
 
 
     
-![png](output_79_0.png)
+![png](images/output_79_0.png)
     
 
 
