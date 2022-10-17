@@ -15,7 +15,7 @@ _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
 ---
 
-_**[Bitcoin Leading/Lagging Correlation Project](C:\Users\19173\Documents\FIN377\Projects\project-diamond-hands\Final_Components\Final_Report)**_
+_**[Bitcoin Leading/Lagging Correlation Project](Documents\FIN377\Projects\project-diamond-hands\Final_Components\Final_Report)**_
 
 <img src="Documents\FIN377\Projects\project-diamond-hands\Graphs\plot_monthly.png?raw=true"/>
 
