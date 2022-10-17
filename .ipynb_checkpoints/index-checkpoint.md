@@ -17,7 +17,7 @@ _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
 _**[Bitcoin Leading/Lagging Correlation Project](Final_Report)**_
 
-<img src="images/bitcoin_thumbnail.png?raw=true"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsdsclub.com%2Fwhat-data-science-and-big-data-can-tell-about-bitcoin%2F&psig=AOvVaw3pB_yumoJIQAOwhPriLTO-&ust=1666108561040000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLifyqDQ5_oCFQAAAAAdAAAAABAD"/>
 
 ---
 
