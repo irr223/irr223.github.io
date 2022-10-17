@@ -15,7 +15,7 @@ _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Bitcoin Leading/Lagging Correlation Project](C:\Users\19173\Documents\FIN377\Projects\project-diamond-hands\Final_Components\Final_Report)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
